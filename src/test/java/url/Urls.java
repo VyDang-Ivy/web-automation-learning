@@ -10,4 +10,5 @@ public interface Urls {
     String hoverSlug = "/hovers";
     String jsAlertsSlug = "/javascript_alerts";
     String dynamicControlSlug = "/dynamic_controls";
+    String floatingMenuSlug = "/floating_menu";
 }
